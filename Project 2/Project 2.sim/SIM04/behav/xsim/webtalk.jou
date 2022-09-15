@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2021.1 (64-bit)
+# SW Build 3247384 on Thu Jun 10 19:36:33 MDT 2021
+# IP Build 3246043 on Fri Jun 11 00:30:35 MDT 2021
+# Start of session at: Mon Nov 29 14:20:07 2021
+# Process ID: 21732
+# Current directory: C:/Users/lewis/OneDrive/Documents/Trinity/2nd Year/Semester 1/CSU22022 Computer Architechture 1/Vivado/Project 2/Project 2.sim/SIM04/behav/xsim
+# Command line: wbtcv.exe -mode batch -source C:/Users/lewis/OneDrive/Documents/Trinity/2nd Year/Semester 1/CSU22022 Computer Architechture 1/Vivado/Project 2/Project 2.sim/SIM04/behav/xsim/xsim.dir/Multiplexer_32Bit_2to1_20335015_TB_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: C:/Users/lewis/OneDrive/Documents/Trinity/2nd Year/Semester 1/CSU22022 Computer Architechture 1/Vivado/Project 2/Project 2.sim/SIM04/behav/xsim/webtalk.log
+# Journal file: C:/Users/lewis/OneDrive/Documents/Trinity/2nd Year/Semester 1/CSU22022 Computer Architechture 1/Vivado/Project 2/Project 2.sim/SIM04/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source C:/Users/lewis/OneDrive/Documents/Trinity/2nd -notrace

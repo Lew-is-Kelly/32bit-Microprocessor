@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../Project 2.srcs/sources_1/new/Multiplexer_1Bit_8to1_20335015.vhd" \
+"../../../../Project 2.srcs/sources_1/new/Multiplexer_1Bit_8to1_20335015_TB.vhd" \
+
+# Do not sort compile order
+nosort

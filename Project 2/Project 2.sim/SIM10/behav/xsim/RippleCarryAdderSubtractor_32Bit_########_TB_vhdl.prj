@@ -1,0 +1,10 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../Project 2.srcs/sources_1/new/BInputLogic_20335015.vhd" \
+"../../../../Project 2.srcs/sources_1/new/FullAdder_20335015.vhd" \
+"../../../../Project 2.srcs/sources_1/new/RippleCarryAdderSubtractor_32Bit_20335015.vhd" \
+"../../../../Project 2.srcs/sources_1/new/RippleCarryAdder_32Bit_20335015.vhd" \
+"../../../../Project 2.srcs/sources_1/new/RippleCarryAdderSubtractor_32Bit_20335015_TB.vhd" \
+
+# Do not sort compile order
+nosort

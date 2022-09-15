@@ -1,0 +1,1 @@
+--incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "LogicCircuit_32Bit_20355015_TB_behav" "xil_defaultlib.LogicCircuit_32Bit_20355015_TB" -log "elaborate.log" 

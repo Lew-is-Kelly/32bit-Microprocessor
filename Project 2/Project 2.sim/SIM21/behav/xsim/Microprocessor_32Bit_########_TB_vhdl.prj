@@ -1,0 +1,35 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../Project 2.srcs/sources_1/new/ALU_32Bit_20335015.vhd" \
+"../../../../Project 2.srcs/sources_1/new/BInputLogic_20335015.vhd" \
+"../../../../Project 2.srcs/sources_1/new/CAR_17Bit_20335015.vhd" \
+"../../../../Project 2.srcs/sources_1/new/ControlMemory_42Bit_256_20335015.vhd" \
+"../../../../Project 2.srcs/sources_1/new/Datapath_32Bit_20335015.vhd" \
+"../../../../Project 2.srcs/sources_1/new/Decoder_32Bit_5to32_20335015.vhd" \
+"../../../../Project 2.srcs/sources_1/new/ExtendLogic_20335015.vhd" \
+"../../../../Project 2.srcs/sources_1/new/FullAdder_20335015.vhd" \
+"../../../../Project 2.srcs/sources_1/new/FunctionUnit_32Bit_20335015.vhd" \
+"../../../../Project 2.srcs/sources_1/new/IR_32Bit_20335015.vhd" \
+"../../../../Project 2.srcs/sources_1/new/LogicCircuit_1Bit_20335015.vhd" \
+"../../../../Project 2.srcs/sources_1/new/LogicCircuit_32Bit_20335015.vhd" \
+"../../../../Project 2.srcs/sources_1/new/Memory_32Bit_512_20335015.vhd" \
+"../../../../Project 2.srcs/sources_1/new/Microprocessor_32Bit_20335015.vhd" \
+"../../../../Project 2.srcs/sources_1/new/Multiplexer_17Bit_2to1_20335015.vhd" \
+"../../../../Project 2.srcs/sources_1/new/Multiplexer_1Bit_4to1_20335015.vhd" \
+"../../../../Project 2.srcs/sources_1/new/Multiplexer_1Bit_8to1_20335015.vhd" \
+"../../../../Project 2.srcs/sources_1/new/Multiplexer_32Bit_32to1_20335015.vhd" \
+"../../../../Project 2.srcs/sources_1/new/Mutliplexer_32Bit_2to1_20335015.vhd" \
+"../../../../Project 2.srcs/sources_1/new/Negative_Detect_Logic _20335015.vhd" \
+"../../../../Project 2.srcs/sources_1/new/PC_32Bit_20335015.vhd" \
+"../../../../Project 2.srcs/sources_1/new/RegisterFile_32Bit_32Plus1_20335015.vhd" \
+"../../../../Project 2.srcs/sources_1/new/Register_32Bit_20335015.vhd" \
+"../../../../Project 2.srcs/sources_1/new/RippleCarryAdderSubtractor_32Bit_20335015.vhd" \
+"../../../../Project 2.srcs/sources_1/new/RippleCarryAdder_32Bit_20335015.vhd" \
+"../../../../Project 2.srcs/sources_1/new/SR_SL_ShiftUnit_20335015.vhd" \
+"../../../../Project 2.srcs/sources_1/new/VCNZ_FlipFlops_20335015.vhd" \
+"../../../../Project 2.srcs/sources_1/new/ZeroFillLogic_20335015.vhd" \
+"../../../../Project 2.srcs/sources_1/new/Zero_Detect_Logic_20335015.vhd" \
+"../../../../Project 2.srcs/sources_1/new/Microprocessor_32Bit_20335015_TB.vhd" \
+
+# Do not sort compile order
+nosort

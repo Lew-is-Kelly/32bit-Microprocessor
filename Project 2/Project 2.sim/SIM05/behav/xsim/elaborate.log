@@ -1,0 +1,21 @@
+Vivado Simulator v2021.2
+Copyright 1986-1999, 2001-2021 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2021.2/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot RegisterFile_32Bit_32Plus1_20335015_TB_behav xil_defaultlib.RegisterFile_32Bit_32Plus1_20335015_TB -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package ieee.std_logic_arith
+Compiling package ieee.std_logic_unsigned
+Compiling architecture behavioral of entity xil_defaultlib.Decoder_32Bit_5to32_20335015 [decoder_32bit_5to32_20335015_def...]
+Compiling architecture behavioral of entity xil_defaultlib.Register_32Bit_20335015 [register_32bit_20335015_default]
+Compiling architecture behavioral of entity xil_defaultlib.Multiplexer_32Bit_32to1_20335015 [multiplexer_32bit_32to1_20335015...]
+Compiling architecture behavioral of entity xil_defaultlib.Multiplexer_32Bit_2to1_20335015 [multiplexer_32bit_2to1_20335015_...]
+Compiling architecture behavioral of entity xil_defaultlib.RegisterFile_32Bit_32Plus1_20335015 [registerfile_32bit_32plus1_20335...]
+Compiling architecture behavioral of entity xil_defaultlib.registerfile_32bit_32plus1_20335...
+Built simulation snapshot RegisterFile_32Bit_32Plus1_20335015_TB_behav

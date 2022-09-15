@@ -1,0 +1,1 @@
+--incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "Multiplexer_1Bit_4to1_20335015_TB_behav" "xil_defaultlib.Multiplexer_1Bit_4to1_20335015_TB" -log "elaborate.log" 

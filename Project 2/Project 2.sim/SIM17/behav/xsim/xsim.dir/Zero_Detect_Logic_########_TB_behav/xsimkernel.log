@@ -1,0 +1,7 @@
+Running: xsim.dir/Zero_Detect_Logic_20335015_TB_behav/xsimk.exe -simmode gui -wdb Zero_Detect_Logic_20335015_TB_behav.wdb -simrunnum 0 -socket 64544
+Design successfully loaded
+Design Loading Memory Usage: 7992 KB (Peak: 7992 KB)
+Design Loading CPU Usage: 15 ms
+Simulation completed
+Simulation Memory Usage: 8464 KB (Peak: 8464 KB)
+Simulation CPU Usage: 3718 ms

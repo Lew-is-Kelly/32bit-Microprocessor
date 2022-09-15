@@ -1,0 +1,1 @@
+--incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "Decoder_32Bit_5to32_20335015_TB_behav" "xil_defaultlib.Decoder_32Bit_5to32_20335015_TB" -log "elaborate.log" 

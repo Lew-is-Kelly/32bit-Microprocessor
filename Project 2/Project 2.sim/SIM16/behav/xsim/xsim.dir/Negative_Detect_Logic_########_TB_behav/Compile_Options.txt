@@ -1,0 +1,1 @@
+--incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "Negative_Detect_Logic_20335015_TB_behav" "xil_defaultlib.Negative_Detect_Logic_20335015_TB" -log "elaborate.log" 

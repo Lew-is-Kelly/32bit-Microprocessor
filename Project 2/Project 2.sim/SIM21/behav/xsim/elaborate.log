@@ -1,0 +1,46 @@
+Vivado Simulator v2021.2
+Copyright 1986-1999, 2001-2021 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2021.2/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot Microprocessor_32Bit_20335015_TB_behav xil_defaultlib.Microprocessor_32Bit_20335015_TB -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package ieee.std_logic_arith
+Compiling package ieee.std_logic_unsigned
+Compiling package ieee.numeric_std
+Compiling architecture behavioral of entity xil_defaultlib.VCNZ_FlipFlops_20335015 [vcnz_flipflops_20335015_default]
+Compiling architecture behavioral of entity xil_defaultlib.CAR_17Bit_20335015 [car_17bit_20335015_default]
+Compiling architecture behavioral of entity xil_defaultlib.IR_32Bit_20335015 [ir_32bit_20335015_default]
+Compiling architecture behavioral of entity xil_defaultlib.PC_32Bit_20335015 [pc_32bit_20335015_default]
+Compiling architecture behavioral of entity xil_defaultlib.Multiplexer_17Bit_2to1_20335015 [multiplexer_17bit_2to1_20335015_...]
+Compiling architecture behavioral of entity xil_defaultlib.Multiplexer_1Bit_8to1_20335015 [multiplexer_1bit_8to1_20335015_d...]
+Compiling architecture behavioral of entity xil_defaultlib.ExtendLogic_20335015 [extendlogic_20335015_default]
+Compiling architecture behavioral of entity xil_defaultlib.ZeroFillLogic_20335015 [zerofilllogic_20335015_default]
+Compiling architecture behavioral of entity xil_defaultlib.ControlMemory_42Bit_256_20335015 [controlmemory_42bit_256_20335015...]
+Compiling architecture behavioral of entity xil_defaultlib.Multiplexer_32Bit_2to1_20335015 [multiplexer_32bit_2to1_20335015_...]
+Compiling architecture behavioral of entity xil_defaultlib.BInputLogic_20335015 [binputlogic_20335015_default]
+Compiling architecture behavioral of entity xil_defaultlib.FullAdder_20335015 [fulladder_20335015_default]
+Compiling architecture behavioral of entity xil_defaultlib.RippleCarryAdder_32Bit_20335015 [ripplecarryadder_32bit_20335015_...]
+Compiling architecture behavioral of entity xil_defaultlib.RippleCarryAdderSubtractor_32Bit_20335015 [ripplecarryaddersubtractor_32bit...]
+Compiling architecture behavioral of entity xil_defaultlib.Multiplexer_1Bit_4to1_20335015 [multiplexer_1bit_4to1_20335015_d...]
+Compiling architecture behavioral of entity xil_defaultlib.LogicCircuit_1Bit_20335015 [logiccircuit_1bit_20335015_defau...]
+Compiling architecture behavioral of entity xil_defaultlib.LogicCircuit_32Bit_20335015 [logiccircuit_32bit_20335015_defa...]
+Compiling architecture behavioral of entity xil_defaultlib.ALU_32Bit_20335015 [alu_32bit_20335015_default]
+Compiling architecture behavioral of entity xil_defaultlib.SR_SL_ShiftUnit_20335015 [sr_sl_shiftunit_20335015_default]
+Compiling architecture behavioral of entity xil_defaultlib.Negative_Detect_Logic_20335015 [negative_detect_logic_20335015_d...]
+Compiling architecture behavioral of entity xil_defaultlib.Zero_Detect_Logic_20335015 [zero_detect_logic_20335015_defau...]
+Compiling architecture behavioral of entity xil_defaultlib.FunctionalUnit_32Bit_20335015 [functionalunit_32bit_20335015_de...]
+Compiling architecture behavioral of entity xil_defaultlib.Decoder_32Bit_5to32_20335015 [decoder_32bit_5to32_20335015_def...]
+Compiling architecture behavioral of entity xil_defaultlib.Register_32Bit_20335015 [register_32bit_20335015_default]
+Compiling architecture behavioral of entity xil_defaultlib.Multiplexer_32Bit_32to1_20335015 [multiplexer_32bit_32to1_20335015...]
+Compiling architecture behavioral of entity xil_defaultlib.RegisterFile_32Bit_32Plus1_20335015 [registerfile_32bit_32plus1_20335...]
+Compiling architecture behavioral of entity xil_defaultlib.Datapath_32Bit_20335015 [datapath_32bit_20335015_default]
+Compiling architecture behavioral of entity xil_defaultlib.Memory_32Bit_512_20335015 [memory_32bit_512_20335015_defaul...]
+Compiling architecture behavioral of entity xil_defaultlib.Microprocessor_32Bit_20335015 [microprocessor_32bit_20335015_de...]
+Compiling architecture behavioral of entity xil_defaultlib.microprocessor_32bit_20335015_tb
+Built simulation snapshot Microprocessor_32Bit_20335015_TB_behav
